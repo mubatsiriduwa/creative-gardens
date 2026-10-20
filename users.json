@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "name": "Creative Gardens",
+        "username": "Gardens26",
+        "email": "dmubatsiri@gmail.com",
+        "password": "$2y$10$9lF8qxteeUHB2IXFfd23bOSnMhlbcnNkS7tqFPkCdVn4NOGCj67IW",
+        "role": "admin",
+        "createdAt": "2026-10-14T08:51:43+02:00",
+        "resetToken": "e81e68e79f85939c0ede65bd85d09fb0eb8c7e8d1b3b562050ac9f0b5863cabd",
+        "resetExpires": 1791989662
+    }
+]
